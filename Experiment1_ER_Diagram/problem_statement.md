@@ -47,7 +47,7 @@ Design a database for patient management, appointments, medical records, and bil
    - How you modeled prerequisites or billing.
 
 
-# ER Diagram Submission - SREE DHARMA A V (212222060252)
+# ER Diagram Submission - MEENAKSHI SUBDARAM D (212222060145)
 
 ## Scenario Chosen:
 University / Hospital (choose one)
